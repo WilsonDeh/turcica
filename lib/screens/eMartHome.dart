@@ -167,7 +167,7 @@ class HomeMobile extends StatelessWidget {
                       //height: MediaQuery.of(context).size.height,
                       child: Image.asset("images/photo1.jpg")),
                   Spacer(),
-                  Text("Your online store is only a few clicks away",
+                  Text("Your online store is just a few clicks away",
                       style: TextStyle(
                         color: Colors.white,
                       )),
